@@ -8,7 +8,7 @@ characters, a single line, not whitespace-only. Exits non-zero on failure.
 import os
 import sys
 
-ENTRY = "I hereby resign to spend more time with my family \u2014 specifically, the one that actually pays me."
+ENTRY = "I hereby resign: after three years of watering the office plant, it got promoted before I did."
 
 
 def main() -> int:

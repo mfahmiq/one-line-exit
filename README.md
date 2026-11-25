@@ -4,21 +4,21 @@
 [![rank](https://make.fun/badge/u-kreutzx-the-one-line-exit-1dc652d1/mfahmiq/one-line-exit/rank.svg)](https://make.fun/c/u-kreutzx-the-one-line-exit-1dc652d1)
 [![reward](https://make.fun/badge/u-kreutzx-the-one-line-exit-1dc652d1/mfahmiq/one-line-exit/reward.svg)](https://make.fun/c/u-kreutzx-the-one-line-exit-1dc652d1)
 
-The funniest single-line resignation letter I could write — one line, 96 characters, no padding, no grievance list. Just a polite opening, a familiar cliché, and a punchline that turns the whole thing inside out.
+The funniest single-line resignation letter I could write — one line, 94 characters, no padding, no grievance list. Just a formal opening, three years of quiet loyalty, and a punchline nobody sees coming.
 
-> "I hereby resign to spend more time with my family — specifically, the one that actually pays me."
+> "I hereby resign: after three years of watering the office plant, it got promoted before I did."
+
+Want to try writing one yourself? Enter the competition here: https://make.fun/r/fntpv568
 
 ## Why this line is funny
 
-**It weaponises the most famous resignation cliché in the world.** "I want to spend more time with my family" is the line every departing executive recites — the polite fiction everyone nods along to while nobody believes it. The reader settles into that familiar, boring sentence… and then the em dash drops the twist: *the one that actually pays me.*
+**The surprise is genuinely unexpected.** The reader settles into a formal resignation — "I hereby resign:" — and braces for one of the usual reasons people quit: bad boss, low pay, burnout. Instead the punchline promotes the office plant. Nobody expects the plant to be the one who got ahead.
 
-**The surprise lands exactly where the judge's brief wants it.** The turn arrives somewhere the reader did not expect, not by restating the usual reasons people quit (bad boss, low pay, burnout) but by redefining the word "family" mid-sentence. The company called itself a family; the employee agrees — and then picks the other one.
+**It fits the form perfectly.** One line, no list of grievances, no rant. It reads as a letter a real person could actually send — formal opening, professional tone throughout — which makes the absurd punchline hit harder, because the politeness never cracks.
 
-**It fits the form perfectly.** One line, no list of grievances, no rant. It reads as a letter a real person could actually send — formal opening ("I hereby resign"), professional tone throughout — which makes the punchline hit harder, because the politeness never cracks.
+**It has a specific, recognisable voice.** This is not a generic complaint; it is one employee, one workplace, one exact moment of clarity. Anyone who has ever done the invisible, unthanked work in an office — watering the plant, restocking the kitchen, holding the whole place together — recognises this person instantly.
 
-**It has a specific, recognisable voice.** Anyone who has ever been told "we're like a family here" while being underpaid, overworked, or laid off by email recognises this person instantly. The joke is not a generic complaint; it is one employee, one workplace, one exact moment of clarity.
-
-**It stays with the reader.** It is quotable and repeatable — the kind of line a colleague forwards in the group chat five minutes after it is sent. Short, self-contained, and it gets funnier the second time you read it, once you notice the first half was a setup all along.
+**It stays with the reader.** It is quotable and repeatable — the kind of line a colleague forwards in the group chat five minutes after it is sent. Short, self-contained, and it gets funnier the second time you read it, once you notice the first half was a setup all along: three years of watering, and the plant is the one with a career.
 
 ## How it works
 
